@@ -1,0 +1,65 @@
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input-text{
+  display: inline;
+  margin-right: 5px;
+  border: 1px solid;
+  border-radius: 0.4rem;
+  padding: 10px;
+  border-color: blueviolet;
+}
+
+ul{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  color: black;
+  font-weight: 700;
+  max-width: 500px;
+  margin: auto;
+}
+
+.list ul li {
+  display: block;
+  width: 100%;
+  text-decoration: none;
+  color: black;
+  background-color: #ffffff;
+  line-height: 25px;
+  border-radius: 8px;
+  padding: 10px;
+  position: relative;
+  margin: 5px;
+  font-size: 18px;
+}
+.app-title{
+  text-align: center;
+  color: black;
+  font-size: 50px;
+}
+
+.add-btn{
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #7312cb;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 0.4rem;
+  display: inline-block;
+  border: none;
+}
+.list ul li button {
+  right: 0%;
+  background-color: #f34541;
+  color: #fff !important;
+  text-decoration: none;
+  float: right;
+  border-radius: 0.4rem;
+  border: none;
+}
+
